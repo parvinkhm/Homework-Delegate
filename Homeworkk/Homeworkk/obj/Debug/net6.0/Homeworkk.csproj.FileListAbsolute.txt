@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\net6.0\Homeworkk.exe
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\net6.0\Homeworkk.deps.json
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\net6.0\Homeworkk.runtimeconfig.json
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\net6.0\Homeworkk.dll
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\net6.0\Homeworkk.pdb
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.dll
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\refint\Homeworkk.dll
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.pdb
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\Homeworkk.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\net6.0\ref\Homeworkk.dll
